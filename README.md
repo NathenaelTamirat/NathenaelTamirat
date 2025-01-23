@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NathenaelTamirat&theme=dark&hide_border=true)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats-tan-theta.vercel.app?user=NathenaelTamirat&theme=dark)](https://git.io/streak-stats)
