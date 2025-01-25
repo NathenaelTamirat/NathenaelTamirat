@@ -11,3 +11,6 @@
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NathenaelTamirat&theme=dark&column=7&margin-w=15&margin-h=15&no-frame=true&title=MultiLanguage,Commit,Repositories&row=1&color=ffcc00)
 
+![Profile Views](https://komarev.com/ghpvc/?username=NathenaelTamirat&color=ffcc00&style=flat-square&label=Profile%20Views)
+
+
