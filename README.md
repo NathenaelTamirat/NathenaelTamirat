@@ -13,5 +13,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NathenaelTamirat&color=ffcc00&style=flat-square&label=Profile%20Views)
 
-![GitHub Achievement](https://github-profile-achievements.vercel.app/?username=NathenaelTamirat&theme=dark&color=ffcc00&border=ff5c5c)
-
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Enabled-ffcc00?style=flat&logo=github-actions&logoColor=ff5c5c)
