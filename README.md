@@ -9,4 +9,5 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-A-green)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NathenaelTamirat&bg_color=2D2D2D&color=ff5c5c&line=ffcc00&point=ffcc00&area=true&hide_border=true)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NathenaelTamirat&theme=dark&column=7&margin-w=15&margin-h=15&no-frame=true&title=MultiLanguage,Commit,Repositories&row=1&color=ffcc00)
+
