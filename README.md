@@ -15,3 +15,5 @@
 
 ![Contributions](https://img.shields.io/badge/Contributions-100+_days-ffcc00?style=flat&logo=github&logoColor=ff5c5c)
 ![GitHub Star](https://img.shields.io/badge/GitHub_Star-⭐-ffcc00?style=flat&logo=github&logoColor=ff5c5c)
+
+![Documentation](https://img.shields.io/badge/Documentation-Complete-ffcc00?style=flat&logo=github&logoColor=ff5c5c)
