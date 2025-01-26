@@ -14,3 +14,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=NathenaelTamirat&color=ffcc00&style=flat-square&label=Profile%20Views)
 
 ![Contributions](https://img.shields.io/badge/Contributions-100+_days-ffcc00?style=flat&logo=github&logoColor=ff5c5c)
+![GitHub Star](https://img.shields.io/badge/GitHub_Star-⭐-ffcc00?style=flat&logo=github&logoColor=ff5c5c)
