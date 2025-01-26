@@ -9,6 +9,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Code Quality](https://img.shields.io/badge/Code%20Quality-A-green)
 
+![Version](https://img.shields.io/badge/Version-1.0.0-ffcc00?style=flat&logo=github&logoColor=ff5c5c)
+
+
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NathenaelTamirat&theme=dark&column=7&margin-w=15&margin-h=15&no-frame=true&title=MultiLanguage,Commit,Repositories&row=1&color=ffcc00)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NathenaelTamirat&color=ffcc00&style=flat-square&label=Profile%20Views)
