@@ -24,5 +24,3 @@
 
 ![Documentation](https://img.shields.io/badge/Documentation-Complete-ffcc00?style=flat&logo=github&logoColor=ff5c5c)
 
-![Project Status](https://img.shields.io/badge/Project_Status-Active-ffcc00?style=flat&logo=github&logoColor=ff5c5c)
-
