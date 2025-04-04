@@ -10,6 +10,12 @@
 
 
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Nathenael-Tamirat&theme=dark&hide_longest_streak(true)" />
+  </a>
+</p>
+
 
 
 ![Nathenael's Stats](https://github-readme-stats.vercel.app/api?username=NathenaelTamirat&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&bg_color=2D2D2D&border_radius=10&hide_border=true)
