@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Nathenael-Tamirat&theme=dark&hide_longest_streak(true)" />
+    <img src="https://streak-stats.demolab.com/?user=NathenaelTamirat&theme=dark&hide_longest_streak(true)" />
   </a>
 </p>
 
