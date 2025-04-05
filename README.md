@@ -70,7 +70,7 @@ I'm a passionate, tenacious and Polymath full-stack developer who loves coding, 
 - **Android Development**: Android Studio
 - **Editors**: Visual Studio Code
 - **Frameworks**: React, Express.js, Node.js
-- 
+
 ## 🏅 Achievements & Badges
 
 ![React](https://img.shields.io/badge/React-16.13-blue)
