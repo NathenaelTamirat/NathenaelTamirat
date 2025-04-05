@@ -1,23 +1,25 @@
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,git,html,css,react,nodejs,express,mongodb,java,android" />
+    <img src="https://skillicons.dev/icons?i=javascript,git,php,python,kotlin,swift,react,angular,html,css,react,nodejs,express,mongodb,java,android" />
   </a>
 </p>
 
 # 👨‍💻 Hello, I’m Nathenael Tamirat! Welcome to My GitHub! 👋
 
-I'm a passionate full-stack developer who loves coding, exploring AI, and teaching others. Feel free to explore my repositories and see what I'm working on.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+Enthusiast;Educator;Front-end+developer;Back-end+developer;Nathenael+Tamirat)
 
-[![GitHub Streak](https://git-readme-streak-stats-tan-theta.vercel.app?user=NathenaelTamirat&theme=dark&hide_border=true&border_radius=6&card_width=600&card_height=200)](https://git.io/streak-stats)
+I'm a passionate, tenacious and Polymath full-stack developer who loves coding, exploring as well as using AI, and teaching others. Feel free to contact me by my gmail nathenaeltamiratbizuneh@gmail.com.
 
----
+
+
 
 [![GitHub Streak](https://github-readme-streak-stats-tan-theta.vercel.app?user=NathenaelTamirat&theme=dark&hide_border=true&border_radius=6&card_width=600&card_height=200)](https://git.io/streak-stats)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathenaelTamirat&layout=compact)
 
 ---
-
 ## 🚀 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
@@ -32,6 +34,7 @@ I'm a passionate full-stack developer who loves coding, exploring AI, and teachi
 
 ---
 
+
 ## 🏆 Achievements & Stats
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NathenaelTamirat&theme=dark&column=7&margin-w=15&margin-h=15&no-frame=true&title=MultiLanguage,Commit,Repositories&row=1&color=ffcc00)
@@ -42,6 +45,9 @@ I'm a passionate full-stack developer who loves coding, exploring AI, and teachi
 ![GitHub Star](https://img.shields.io/badge/GitHub_Star-⭐-ffcc00?style=flat&logo=github&logoColor=ff5c5c)
 
 ![Documentation](https://img.shields.io/badge/Documentation-Complete-ffcc00?style=flat&logo=github&logoColor=ff5c5c)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathenaelTamirat&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&bg_color=2D2D2D&border_radius=10&hide_border=true)
+
 
 ---
 
@@ -64,3 +70,11 @@ I'm a passionate full-stack developer who loves coding, exploring AI, and teachi
 - **Android Development**: Android Studio
 - **Editors**: Visual Studio Code
 - **Frameworks**: React, Express.js, Node.js
+- 
+## 🏅 Achievements & Badges
+
+![React](https://img.shields.io/badge/React-16.13-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-4.x-green)
+![Node.js](https://img.shields.io/badge/Node.js-14.x-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
