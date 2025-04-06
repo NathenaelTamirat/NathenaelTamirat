@@ -1,11 +1,28 @@
 
+# 👨‍💻 Hello, I’m Nathenael Tamirat!A Full Stack develope. Welcome to My GitHub! 👋
+
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,git,php,python,kotlin,swift,react,angular,html,css,react,nodejs,express,mongodb,java,android" />
   </a>
 </p>
 
-# 👨‍💻 Hello, I’m Nathenael Tamirat! Welcome to My GitHub! 👋
+---
+## 🌱 I’m Currently Learning
+
+- Full-stack development, including both front-end and back-end technologies.
+- AI and machine learning basics for integrating intelligent features into web apps.
+
+---
+
+## 🔧 My Favorite Tools
+
+- **Version Control**: Git, GitHub
+- **Android Development**: Android Studio
+- **Editors**: Visual Studio Code
+- **Frameworks**: React, Express.js, Node.js
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+Enthusiast;Educator;Front-end+developer;Back-end+developer;Nathenael+Tamirat)
 
@@ -57,19 +74,6 @@ I'm a passionate, tenacious and Polymath full-stack developer who loves coding, 
 
 ---
 
-## 🌱 I’m Currently Learning
-
-- Full-stack development, including both front-end and back-end technologies.
-- AI and machine learning basics for integrating intelligent features into web apps.
-
----
-
-## 🔧 My Favorite Tools
-
-- **Version Control**: Git, GitHub
-- **Android Development**: Android Studio
-- **Editors**: Visual Studio Code
-- **Frameworks**: React, Express.js, Node.js
 
 ## 🏅 Achievements & Badges
 
