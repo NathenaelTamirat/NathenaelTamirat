@@ -1,5 +1,5 @@
 
-# 👨‍💻 Hello, I’m Nathenael Tamirat!A Full Stack develope. Welcome to My GitHub! 👋
+# 👨‍💻 Hello, I’m Nathenael Tamirat !A Full Stack developer. Welcome to My GitHub! 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+Enthusiast;Educator;Nathenael+Tamirat)
 
