@@ -1,6 +1,8 @@
 
 # 👨‍💻 Hello, I’m Nathenael Tamirat!A Full Stack develope. Welcome to My GitHub! 👋
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+Enthusiast;Educator;Nathenael+Tamirat)
+
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -24,7 +26,6 @@
 - **Frameworks**: React, Express.js, Node.js
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+Enthusiast;Educator;Front-end+developer;Back-end+developer;Nathenael+Tamirat)
 
 I'm a passionate, tenacious and Polymath full-stack developer who loves coding, exploring as well as using AI, and teaching others. Feel free to contact me by my gmail nathenaeltamiratbizuneh@gmail.com.
 
