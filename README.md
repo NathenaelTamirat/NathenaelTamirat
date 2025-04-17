@@ -1,5 +1,5 @@
 
-# 👨‍💻 Hello, I’m Nathenael Tamirat !A Full Stack developer. Welcome to My GitHub! 👋
+# 👨‍💻 Hello, I’m Nathenael Tamirat ! A Full Stack developer. Welcome to My GitHub! 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+Enthusiast;Educator;Nathenael+Tamirat)
 
@@ -15,7 +15,13 @@
 
 - Full-stack development, including both front-end and back-end technologies.
 - AI and machine learning basics for integrating intelligent features into web apps.
+- Web design: Further improving my Front-end skills
 
+---
+## I'm currently working 
+
+-A Freelancer
+-A Teacher for free to apply what I learned 
 ---
 
 ## 🔧 My Favorite Tools
@@ -27,7 +33,7 @@
 
 
 
-I'm a passionate, tenacious and Polymath full-stack developer who loves coding, exploring as well as using AI, and teaching others. Feel free to contact me by my gmail nathenaeltamiratbizuneh@gmail.com.
+I'm a passionate, tenacious and Polymath full-stack developer who loves coding, exploring as well as using AI, and teaching others. Feel free to contact me by my gmail jobsnathenaeltamiratbizuneh@gmail.com.
 
 
 
