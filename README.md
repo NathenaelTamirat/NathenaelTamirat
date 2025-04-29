@@ -4,15 +4,22 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,git,php,python,kotlin,swift,react,angular,html,css,react,nodejs,express,mongodb,java,android" />
+    <img src="https://skillicons.dev/icons?i=javascript,git,php,python,kotlin,swift,react,angular,html,css,nodejs,express,mongodb,java,android" alt="Tech Skills Icons" />
   </a>
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+### 🔥 GitHub Contributions
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nathenaeltamirat&theme=dark&border_radius=10)](https://git.io/streak-stats)
+
+<a href="https://github.com/Nathenaeltamirat">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nathenaeltamirat&show_icons=true&theme=merko&font=baloo&extension=null&border=2&border_radius=8">
+</a>
+<a href="https://github.com/Nathenaeltamirat">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathenaeltamirat&theme=react&layout=compact&langs_count=5&bg_color=101010&hide_title=true&hide=html,css">
+</a>
 
 ---
 
@@ -45,13 +52,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathenaeltamirat&layout=compact)
 
-
 ---
 
 ## 🌐 More About Me
 
-🌍 Portfolio: [nathenaeltamirat.vercel.app](https://nathenaeltamirat.vercel.app) *(still under construction 🚧)*
+🌍 Portfolio: [nathenaeltamirat.vercel.app](https://nathenaeltamirat.vercel.app) *(still under construction 🚧, stay tuned!)*
 
 ---
-
-
