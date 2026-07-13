@@ -1,63 +1,112 @@
-# 👨‍💻 Hello, I’m Nathenael Tamirat! A Full Stack Developer. Welcome to My GitHub! 👋
-
+# 👋 Hello, I'm Nathenael Tamirat
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Nathenael+Tamirat" alt="Typing SVG"/>
-</div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" height="30" alt="Railway"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F59E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Enthusiast;Backend+Engineer;Open+Source+Contributor;Welcome+to+My+GitHub!" />
 
 </div>
 
 ---
 
-<h1 align="center">🔥 GitHub Contributions</h1>
+# 🚀 About Me
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=nathenaeltamirat&theme=dark&border_radius=10" />
-  </a>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathenaeltamirat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathenaeltamirat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+I'm a passionate **Full-Stack Developer** focused on building scalable web applications, backend systems, AI-powered software, and modern cloud-native solutions.
 
-
-<a href="https://github.com/nathenaeltamirat" style="width: 100%; max-width: 800px; display: block; margin: 0 auto;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nathenaeltamirat&theme=github-compact&bg_color=0d1117&hide_border=true&area=true&area_color=00F59E&point=00F59E&line=8B949E" width="100%" style="border-radius: 12px;">
-</a>
+- 🌱 Currently learning **Rust**, **Java**, **Kubernetes**, and **AI Engineering**
+- 💻 Interested in Backend Development, DevOps, AI, and System Design
+- 🚀 Building enterprise applications and open-source projects
+- 📍 Ethiopia
 
 ---
 
-## 🌱 I’m Currently Learning
+# 💻 Tech Stack
 
-- Full-stack development (PERN + Java + Rust)
-- AI in software engineering: ML fundamentals, neural networks, NLP, computer vision, code automation, AI-assisted testing & review, predictive analytics, recommendation systems, generative AI, LLMs, AutoML, AI-driven DevOps, security, and workflow optimization.
+<div align="center">
+
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-007396?logo=java&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Rust-000000?logo=rust&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&style=for-the-badge"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" height="35"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=nathenaeltamirat&theme=dracula&border_radius=10"/>
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nathenaeltamirat&theme=github_dark"/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nathenaeltamirat&theme=github_dark"/>
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nathenaeltamirat&theme=github_dark"/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nathenaeltamirat&theme=github_dark&utcOffset=3"/>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathenaeltamirat&theme=github_dark"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nathenaeltamirat&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
+
+
+# 🌱 Currently Learning
+
+- PERN Stack
+- Java Backend Development
+- Rust Programming
+- Kubernetes
+- Machine Learning
+- Generative AI
+- LangChain & LLMs
+- AI Agents
+- DevOps
+- System Design
 
 
 ---
 
-## 💬 Let's Connect!
-
+# 🌐 Connect With Me
 - 🔗 **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/nathenael-tamirat)
 - 📧 **Email**: [nathenaeltamiratbizuneh@gmail.com](mailto:nathenaeltamiratbizuneh@gmail.com)
 
@@ -95,15 +144,8 @@
 
 ---
 
-## 🌐 More About Me
-
-🌍 Portfolio: [nathenaeltamirat.vercel.app](https://nathenaeltamirat.vercel.app) *(still under construction 🚧, stay tuned!)*
-
----
-
 <div align="center">
-  <a href="https://komarev.com/ghpvc/?username=nathenaeltamirat&color=ffcc00&style=flat-square&label=Profile%20Views">
-    <img src="https://komarev.com/ghpvc/?username=nathenaeltamirat&color=ffcc00&style=flat-square&label=Profile%20Views" />
-  </a>
-  
+
+![](https://komarev.com/ghpvc/?username=nathenaeltamirat&style=for-the-badge&color=blueviolet)
+
 </div>
