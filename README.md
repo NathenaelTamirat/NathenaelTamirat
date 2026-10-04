@@ -11,7 +11,7 @@
 
 I'm a passionate **Full-Stack Developer** focused on building scalable web applications, backend systems, AI-powered software, and modern cloud-native solutions.
 
-- 🌱 Currently learning **Rust**, **Java**, **Kubernetes**, and **AI Engineering**
+- 🌱 Currently learning **Rust**, **Kubernetes**, and **AI Engineering**
 - 💻 Interested in Backend Development, DevOps, AI, and System Design
 - 🚀 Building enterprise applications and open-source projects
 - 📍 Ethiopia
@@ -93,7 +93,6 @@ I'm a passionate **Full-Stack Developer** focused on building scalable web appli
 # 🌱 Currently Learning
 
 - PERN Stack
-- Java Backend Development
 - Rust Programming
 - Kubernetes
 - Machine Learning
